@@ -1,1 +1,3 @@
-# men_egg_erie
+# Men-Egg-Erie
+
+IT'S A BREAKFAST JOINT, COME EAT!!

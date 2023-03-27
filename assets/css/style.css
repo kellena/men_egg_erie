@@ -4,6 +4,8 @@ html{
 }
 
 header{
+    align-items: center;
+    display: flex;
     position: relative;
     object-fit: cover;
     object-position: 50% 50%;

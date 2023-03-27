@@ -3,6 +3,10 @@ html{
     background-color: #ffc200;
 }
 
+header{
+    position: relative;
+}
+
 h1{
     text-align: center;
 }

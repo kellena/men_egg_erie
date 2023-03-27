@@ -5,6 +5,8 @@ html{
 
 header{
     position: relative;
+    object-fit: cover;
+    object-position: 50% 50%;
 }
 
 img{

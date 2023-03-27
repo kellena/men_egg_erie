@@ -1,0 +1,12 @@
+html{
+    display: flex;
+    background-color: #ffc200;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}

@@ -18,8 +18,8 @@ header{
 img{
     object-fit: cover;
     object-position: 50% 50%;
-    height: 100%;
-    width: 100%;
+    max-width: 60%;
+    max-height: 60%;
   }
 
 h1{
